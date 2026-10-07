@@ -55,7 +55,7 @@ Not everything here will be a finished project. Some things are simply part the 
 
 # Contact 
 - Gmail: dannyex9990@gmail.com
-- Linkedin: linkedin.com/in/daniel-cuevas-09851a340
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Cuevas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-cuevas-09851a340)
 
 # Why I Created This Repository
 
